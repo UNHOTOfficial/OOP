@@ -216,15 +216,13 @@ public class Program
 
     public static double CalculateDistrictArea(int districtCount)
     {
-        // Your implementation for calculating the district area
-        // Add your code here
+
         return 0;
     }
 
     public static double CalculateDistrictCircumference(int districtCount)
     {
-        // Your implementation for calculating the district circumference
-        // Add your code here
+
         return 0;
     }
 }
